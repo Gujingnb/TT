@@ -1,3 +1,9 @@
 <litepal>
-    <dbname value="">
+    <dbname value="tt"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.tt.android.db.Province"/>
+        <mapping class="com.tt.android.db.City"/>
+        <mapping class="com.tt.android.db.Country"/>
+    </list>
 </litepal>
